@@ -1,2 +1,4 @@
-# APW
-caderno da aula de APW com o professor Bruno 
+# Análise de projeto web
+### Aula de APW com o professor Bruno Zolotareff
+
+Auça 01 - Apresentação das bases tecnológicas
